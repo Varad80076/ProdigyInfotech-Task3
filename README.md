@@ -20,4 +20,4 @@
 - JS
 
 ## Usage
-Simply open the index.html file in your web browser to start playing the game.
+Simply open the `index.html` file in your web browser to start playing the game.
